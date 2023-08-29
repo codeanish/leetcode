@@ -41,3 +41,18 @@ def test_get_sum_minus1_minus_1_equals_minus_2():
     a = -1
     b = -1
     assert main.get_sum(a, b) == -2
+
+def test_big_minus():
+    a = -1000
+    b = -1000
+    assert main.get_sum(a, b) == -2000
+
+def test_big_addition():
+    a = 1000
+    b = 1000
+    assert main.get_sum(a, b) == 2000
+
+def test_big_addition_zero():
+    a = -1000
+    b = 1000
+    assert main.get_sum(a, b) == 0
