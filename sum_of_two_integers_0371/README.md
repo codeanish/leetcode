@@ -21,7 +21,7 @@ Output: 5
 
 * -1000 <= a, b <= 1000
 
-## Notes:
+## Notes:
 
 I've never tackled a problem like this, but it strikes me as though there must be a way of performing binary operations on the numbers in order to add them together.
 
