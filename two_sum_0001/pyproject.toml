@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "two-sum-0001"
+version = "0.1.0"
+description = ""
+authors = ["codeanish <anish@codeanish.com>"]
+readme = "README.md"
+packages = [{include = "two_sum_0001"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
