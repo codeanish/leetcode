@@ -5,7 +5,7 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) | [My Solution](two_sum_0001)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [My Solution](best_time_to_buy_and_sell_stock_121)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
