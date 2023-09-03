@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "maximum-product-subarray-0152"
+version = "0.1.0"
+description = ""
+authors = ["codeanish <anish@codeanish.com>"]
+readme = "README.md"
+packages = [{include = "maximum_product_subarray_0152"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
