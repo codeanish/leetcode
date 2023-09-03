@@ -18,15 +18,14 @@ def product_except_self(nums: List[int]) -> List[int]:
     return_array = [1] * length
     left_product = 1
     for i in range(length):
-        return_array[i] *= nums[i-1] if i > 1 else 1
+        left_product *= nums[i-1] if i >= 1 else 1
+        return_array[i] = left_product
+    right_product = 1
     for i in range(length)[::-1]:
-        print(i)
-        print(nums[i])
-        # return_array[i] *= nums[]
+        right_product *= nums[i+1] if i < length - 1 else 1
+        return_array[i] *= right_product
     return return_array
 
 
 if __name__ == "__main__":
-    # print(product_except_self_n2([1,2,3,4]))
     print(product_except_self([1,2,3,4]))
-    # 1,1,2,3

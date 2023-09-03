@@ -33,4 +33,4 @@ A simple O(n) solution here would be to find the product of the entire array and
 
 My initial approach yields an n^2 solution. This loops through the array of numbers and multiplies all the other numbers in the array together. This is achieved in the product_except_self_n2 solution.
 
-Having looked at a solution to this problem, my intuition about slicing the array left and right has some legs, but the approach used can get this down to O(n) time with no additional memory overhead. It involves iterating through the array twice, once to compute the left slices and once to compute the right slices.
+Having looked at a solution to this problem, my intuition about slicing the array left and right has some legs, but the approach used can get this down to O(n) time with no additional memory overhead. It involves iterating through the array twice, once to compute the left slices and once to compute the right slices. This solution is completed in product_except_self. I must say, even though I knew intuitively what to do here, the array indexes and manipulation weren't straight forward to me.
