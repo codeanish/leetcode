@@ -4,10 +4,12 @@ from typing import List
 def hello():
     return ("Hello")
 
-def maximum_product_subarray(input_array: List[int]) -> int:
+def maximum_product_subarray(nums: List[int]) -> int:
+    if len(nums) == 1:
+        return nums[0]
     max_product = 0
     current_product = 0
-    for element in input_array:
+    for element in nums:
         if current_product == 0:
             current_product = element
         else:
@@ -16,8 +18,8 @@ def maximum_product_subarray(input_array: List[int]) -> int:
             max_product = current_product
     
     current_product = 0
-    for i in range(len(input_array)-1, -1, -1):
-        element = input_array[i]
+    for i in range(len(nums)-1, -1, -1):
+        element = nums[i]
         if current_product == 0:
             current_product = element
         else:

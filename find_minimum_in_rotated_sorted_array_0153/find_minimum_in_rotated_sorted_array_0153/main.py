@@ -30,17 +30,9 @@ def find_minimum(input_array: List[int]) -> int:
         return find_minimum(input_array[midpoint+1:length:1])
     else:
         # chose left hand side
-        return find_minimum(input_array[0:midpoint:1])
+        return find_minimum(input_array[0:midpoint+1:1])
     
 
 if __name__ == "__main__":
     count = 0
     print(find_minimum([3,4,5,1,2]))
-    # array_of_arrays = []
-    # for i in range(10):
-    #     length_of_array = randint(1,10)
-    #     my_array = []
-    #     for j in range(length_of_array):
-    #         my_array.append(randint(-5000,5000))
-    #     array_of_arrays.append(my_array)
-    # print(array_of_arrays)
