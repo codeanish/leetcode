@@ -2,6 +2,17 @@
 
 Below are a list of the Blind 75. This is a list curated by Blind to try to encompass the most important concepts covered in Leetcode to be applicable to different coding interviews. I'm going to try to do them all, wish me luck.
 
+* [Arrays](#array)
+* [Binary](#binary)
+* [Dynamic Programming](#dynamic-programming)
+* [Graph](#graph)
+* [Interval](#interval)
+* [Linked List](#linked-list)
+* [Matric](#matrix)
+* [String](#string)
+* [Tree](#tree)
+* [Heap](#heap)
+
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) | [My Solution](two_sum_0001)
