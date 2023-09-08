@@ -33,3 +33,13 @@ Output: -1
 * All values of nums are unique.
 * nums is an ascending array that is possibly rotated.
 * -10^4 <= target <= 10^4
+
+## Notes:
+If the leftmost point is less than the midpoint of the array, the left half of the array is sorted
+If the rightmost point is greater than the midpoint of the array, the right half of the array is sorted
+
+If in the target is within the bounds of the sorted left part of the array, set the right part of the array to the midpoint-1
+If the left half is sorted, and the target value is outside the bounds of the left part of the array, set the left part of the array to the midpoint +1
+
+If the target is within the bounds of the right part of the array, set the left part of the array to the midpoint+1
+If the right half is sorted and the target value is outside the bounds of the right part of the array, set the right point to the midpoint -1

@@ -22,7 +22,7 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [My Solution](maximum_subarray_0053)
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [My Solution](maximum_product_subarray_0152)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [My Solution](find_minimum_in_rotated_sorted_array_0153)
-- [o] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [My Solution](search_in_rotated_sorted_array_0033)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
