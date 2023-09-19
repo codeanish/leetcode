@@ -10,5 +10,11 @@ def missing_number_set(nums: List[int]) -> int:
     result = total_set - my_nums
     return result.pop()
 
+def missing_number_sum(nums: List[int]) -> int:
+    n = len(nums)
+    total = n * (n + 1) // 2
+    return total - sum(nums)
+
 if __name__ == "__main__":
     print(missing_number_set([0,1,2,4,5,6]))
+    print(missing_number_sum([0,1,2,4,5,6]))
