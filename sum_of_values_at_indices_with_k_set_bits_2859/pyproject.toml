@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "sum-of-values-at-indices-with-k-set-bits-2859"
+version = "0.1.0"
+description = ""
+authors = ["codeanish <anish@codeanish.com>"]
+readme = "README.md"
+packages = [{include = "sum_of_values_at_indices_with_k_set_bits_2859"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
