@@ -32,3 +32,5 @@ s consists of English letters, digits, symbols and spaces.
 The most straight forward solution I can think of is to brute force this problem. For each starting character, check all the following values to see if we have a longer substring than previously.
 
 The other alternative approach I came up with was to go right to left to see what the longest subset was. Perhaps I can go back from the longest subset and see if previous values can fall into this subset?
+
+I've used a sliding window for my best solution here. The process is to iterate the right index of the window until we find a character that is already in the unique set, when there is one, remove the previous element of that type and increment the left index. The right index can then be incremented again until we get to the end of the string.
