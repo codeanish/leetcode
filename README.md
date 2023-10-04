@@ -79,9 +79,9 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 
 ## Linked List
 
-- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | [My Solution](reverse_linked_list_0206)
+- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | [My Solution](linked_list_cycle_0141)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [My Solution](merge_two_sorted_lists_0021)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
