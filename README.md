@@ -83,7 +83,7 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 - [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | [My Solution](linked_list_cycle_0141)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [My Solution](merge_two_sorted_lists_0021)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [My Solution](remove_nth_node_from_list_0019)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---

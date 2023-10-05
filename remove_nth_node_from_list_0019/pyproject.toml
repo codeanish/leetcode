@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "remove-nth-node-from-list-0019"
+version = "0.1.0"
+description = ""
+authors = ["codeanish <anish@codeanish.com>"]
+readme = "README.md"
+packages = [{include = "remove_nth_node_from_list_0019"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
