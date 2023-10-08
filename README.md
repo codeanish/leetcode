@@ -104,7 +104,7 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [My Solution](valid_anagram_0242)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [My Solution](valid_parentheses_0020)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [My Solution](valid_palindrome_0125)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
