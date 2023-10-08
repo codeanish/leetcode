@@ -15,26 +15,26 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 
 ## Array
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/) | [My Solution](two_sum_0001)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [My Solution](best_time_to_buy_and_sell_stock_121)
-- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [My Solution](contains_duplicate_0217)
-- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [My Solution](product_of_array_except_self_0238)
-- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [My Solution](maximum_subarray_0053)
-- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [My Solution](maximum_product_subarray_0152)
-- [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [My Solution](find_minimum_in_rotated_sorted_array_0153)
-- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [My Solution](search_in_rotated_sorted_array_0033)
-- [x] [3Sum](https://leetcode.com/problems/3sum/) | [My Solution](three_sum_0015)
-- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [My Solution](container_with_the_most_water_0011)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) | [My Solution](1_two_sum)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [My Solution](121_best_time_to_buy_and_sell_stock)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [My Solution](217_contains_duplicate)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [My Solution](238_product_of_array_except_self)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [My Solution](53_maximum_subarray)
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [My Solution](152_maximum_product_subarray)
+- [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [My Solution](153_find_minimum_in_rotated_sorted_array)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [My Solution](33_search_in_rotated_sorted_array)
+- [x] [3Sum](https://leetcode.com/problems/3sum/) | [My Solution](15_three_sum)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [My Solution](11_container_with_the_most_water)
 
 ---
 
 ## Binary
 
-- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [My Solution](sum_of_two_integers_0371)
-- [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [My Solution](number_of_1_bits_0191)
-- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/) | [My Solution](counting_bits_0338)
-- [x] [Missing Number](https://leetcode.com/problems/missing-number/) | [My Solution](missing_number_0268)
-- [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [My Solution](reverse_bits_0190)
+- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [My Solution](371_sum_of_two_integers)
+- [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [My Solution](191_number_of_1_bits)
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/) | [My Solution](338_counting_bits)
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/) | [My Solution](268_missing_number)
+- [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [My Solution](190_reverse_bits)
 
 ---
 
@@ -79,11 +79,11 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 
 ## Linked List
 
-- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | [My Solution](reverse_linked_list_0206)
-- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | [My Solution](linked_list_cycle_0141)
-- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [My Solution](merge_two_sorted_lists_0021)
+- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | [My Solution](206_reverse_linked_list)
+- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | [My Solution](141_linked_list_cycle)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [My Solution](21_merge_two_sorted_lists)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [My Solution](remove_nth_node_from_list_0019)
+- [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [My Solution](19_remove_nth_node_from_list)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
@@ -102,10 +102,10 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [My Solution](valid_anagram_0242)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [My Solution](242_valid_anagram)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [My Solution](valid_parentheses_0020)
-- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [My Solution](valid_palindrome_0125)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [My Solution](20_valid_parentheses)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [My Solution](125_valid_palindrome)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
