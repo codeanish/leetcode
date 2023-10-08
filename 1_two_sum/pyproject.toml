@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "two-sum-0001"
+name = "1-two-sum"
 version = "0.1.0"
 description = ""
 authors = ["codeanish <anish@codeanish.com>"]
 readme = "README.md"
-packages = [{include = "two_sum_0001"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"

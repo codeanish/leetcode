@@ -1,4 +1,4 @@
-from two_sum_0001 import main
+from src import main
 
 
 def test_find_two_sum_in_array_example_1():

@@ -1,4 +1,4 @@
-from best_time_to_buy_and_sell_stock_121 import main
+from src import main
 
 def test_max_profit():
     assert main.max_profit([7,1,5,3,6,4]) == 5
