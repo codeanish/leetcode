@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "three-sum-0015"
+name = "125-valid-palindrome"
 version = "0.1.0"
 description = ""
 authors = ["codeanish <anish@codeanish.com>"]
 readme = "README.md"
-packages = [{include = "three_sum_0015"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"

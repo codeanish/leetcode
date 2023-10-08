@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "valid-anagram-0242"
+name = "15-three-sum"
 version = "0.1.0"
 description = ""
 authors = ["codeanish <anish@codeanish.com>"]
 readme = "README.md"
-packages = [{include = "valid_anagram_0242"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"

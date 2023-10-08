@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "valid-parentheses-0020"
+name = "242-valid-anagram"
 version = "0.1.0"
 description = ""
 authors = ["codeanish <anish@codeanish.com>"]
 readme = "README.md"
-packages = [{include = "valid_parentheses_0020"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"

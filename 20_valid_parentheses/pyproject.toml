@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "valid-palindrome-0125"
+name = "20-valid-parentheses"
 version = "0.1.0"
 description = ""
 authors = ["codeanish <anish@codeanish.com>"]
 readme = "README.md"
-packages = [{include = "valid_palindrome_0125"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"

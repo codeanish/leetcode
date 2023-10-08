@@ -1,4 +1,4 @@
-from valid_palindrome_0125 import main
+from src import main
 
 def test_hello():
     assert main.hello() == "Hello"

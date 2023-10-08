@@ -1,5 +1,5 @@
 import pytest
-from three_sum_0015 import main
+from srd import main
 
 def test_hello():
     assert main.hello() == "Hello"
