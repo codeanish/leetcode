@@ -103,7 +103,7 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [My Solution](424_longest_repeating_character_replacement)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [My Solution](242_valid_anagram)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [My Solution](49_group_anagrams)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [My Solution](20_valid_parentheses)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [My Solution](125_valid_palindrome)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
