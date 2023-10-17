@@ -84,7 +84,7 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [My Solution](21_merge_two_sorted_lists)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [My Solution](19_remove_nth_node_from_list)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [x] [Reorder List](https://leetcode.com/problems/reorder-list/) | [My Solution](143_reorder_list)
 
 ---
 
