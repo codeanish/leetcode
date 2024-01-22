@@ -69,7 +69,7 @@ Below are a list of the Blind 75. This is a list curated by Blind to try to enco
 
 ## Interval
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) | [My Solution](57_insert_interval)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
